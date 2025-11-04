@@ -89,6 +89,17 @@ Interactive maps and charts to analyze airport performance, flight routes, and d
 <img width="1867" height="954" alt="image" src="https://github.com/user-attachments/assets/c4d64da0-ca95-4bf4-95eb-7bcd5ec1b61c" />
 
 
+### SQL Queries
+
+Used to extract, filter, and analyze flight data for key performance metrics such as total flights, cancellations, delays, and airline-wise punctuality.
+
+<img width="1294" height="736" alt="image" src="https://github.com/user-attachments/assets/892128e7-376c-4230-b92b-cb1d6c325dbc" />
+
+<img width="1395" height="747" alt="image" src="https://github.com/user-attachments/assets/a26ae9be-cd82-4e3b-b311-d02aba304d56" />
+
+
+
+
 
 ## 📈Results / Findings:
 
