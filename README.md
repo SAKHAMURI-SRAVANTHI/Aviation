@@ -8,7 +8,7 @@ This project provides valuable insights and recommendations for improving on-tim
 The analysis supports decision-making in critical areas such as arrival and departure management, delay prediction, and network reliability.
 
 
-🧾Data Source:
+### 🧾Data Source:
 
 Flights Dataset: Contains over 1,045,000 records with 37 columns (2015 data).
 
@@ -17,7 +17,7 @@ Airlines Dataset: Includes airline codes and names.
 Airports Dataset: Contains information on airport locations and codes.
 
 
-🧰Tools Used:
+### 🧰Tools Used:
 
 Excel: Data Cleaning and initial exploration
 
@@ -28,7 +28,7 @@ Power BI: Dashboard creation and visualization
 Tableau: Advanced visualization and trend analysis
 
 
-🧹Data Cleaning:
+### 🧹Data Cleaning:
 
 In the data preparation phase, the following tasks were performed:
 
@@ -48,7 +48,7 @@ Dimension Tables: Airlines, Airports
 
 
 
-Data Analysis
+### Data Analysis
 
 SQL was used to analyze flight data and derive KPIs, including:
 
@@ -64,21 +64,25 @@ Taxi-in/out performance for ground efficiency
 
 
 
-🗂️ Key Features of the Dashboard
+## 🗂️ Key Features of the Dashboard
 
-Excel Dashboard
+### Excel Dashboard
+
 
 Quick overview of flight delays, cancellations, and punctuality trends
+
 <img width="1707" height="885" alt="image" src="https://github.com/user-attachments/assets/2fad548f-0ff1-4c5b-a36e-ac1c765fa8be" />
 
 
-Power BI Dashboard
+
+### Power BI Dashboard
 
 Dynamic visuals for delay trends, top airlines, busiest routes, and delay causes
+
 <img width="1361" height="769" alt="image" src="https://github.com/user-attachments/assets/a2d1614d-17d7-44b1-b7b4-887df8a26c8e" />
 
 
-Tableau Dashboard
+### Tableau Dashboard
 
 Interactive maps and charts to analyze airport performance, flight routes, and delay distribution
 
@@ -86,7 +90,7 @@ Interactive maps and charts to analyze airport performance, flight routes, and d
 
 
 
-📈Results / Findings
+## 📈Results / Findings:
 
 Analyzed over 1.04 million flights — around 40,000 were cancelled and 2,500 were diverted.
 
@@ -102,7 +106,7 @@ Research & Development airports (e.g., LAX, JFK) showed highest traffic and dela
 
 
 
-💡 Recommendations
+## 💡 Recommendations:
 
 Implement predictive analytics to forecast delays and optimize schedules.
 
